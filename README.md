@@ -1,5 +1,9 @@
 ### Welcome to my Github profile!
 
+I am CS/CE student at the University of Ioannina, Greece.
+
+My urge to try different things keeps me occupied and may result to many unfinished projects.
+
 <!--
 **ZisElite/ZisElite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
