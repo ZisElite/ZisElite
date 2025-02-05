@@ -20,7 +20,7 @@ plenty tutorials on Blender and have created many renders and animations.
 Game development combines my love for problem solving and creativity, so it was the natural next step. I have created a few small games, both 2D and 3D.
 
 ## Experience
-I have worked with C/C++, Java, Python, Go, Git/Github, linux, Unity 3D, Godot, Blender.
+I have worked with C/C++, Java, Python, Go, Git/Github, linux, Discord API, Unity 3D, Godot, Blender.
 
 ## Links
 My software projects can be found here (obviously) and my games and 3d modelling portfolio can be found on Gamejolt and ArtStation respectively:\
